@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-import os,re,readline,sys
+import os,re,sys
 
 def run_command(command):
     try:
